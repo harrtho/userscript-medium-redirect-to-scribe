@@ -7,6 +7,7 @@
 // @license      MIT
 // @match        https://*.medium.com/*
 // @match        https://*.plainenglish.io/*
+// @match        https://*.devgenius.io/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none

@@ -15,6 +15,10 @@
 
 (function () {
     'use strict';
-    var redirectUrl = location.href.replace(location.host, 'scribe.rip');
-    return location.replace(redirectUrl);
+    // Source: https://github.com/lorey/social-media-profiles-regexs#medium
+    var reArticle = new RegExp('\/(?:(?:(?:@(?<username>[A-z0-9]+))|(?<publication>[a-z-]+))\/)?(?<slug>[a-z0-9\-]+)-(?<post_id>[A-z0-9]+)(?:\\?.*)?')
+    if (location.pathname.match(reArticle)) {
+        var redirectUrl = location.href.replace(location.host, 'scribe.rip');
+        return location.replace(redirectUrl);
+    }
 })();

@@ -16,6 +16,7 @@
 // @match        https://blog.shiftleft.io/*
 // @match        https://infosecwriteups.com/*
 // @match        https://levelup.gitconnected.com/*
+// @match        https://towardsdatascience.com/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none

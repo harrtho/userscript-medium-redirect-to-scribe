@@ -10,6 +10,7 @@
 // @match        https://*.plainenglish.io/*
 // @match        https://artificialcorner.com/*
 // @match        https://betterhumans.pub/*
+// @match        https://betterprogramming.pub/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none

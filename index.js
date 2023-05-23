@@ -12,6 +12,7 @@
 // @match        https://betterhumans.pub/*
 // @match        https://betterprogramming.pub/*
 // @match        https://blog.acethecloud.com/*
+// @match        https://blog.bitsrc.io/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none

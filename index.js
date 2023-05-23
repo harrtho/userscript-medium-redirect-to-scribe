@@ -14,6 +14,7 @@
 // @match        https://blog.acethecloud.com/*
 // @match        https://blog.bitsrc.io/*
 // @match        https://blog.shiftleft.io/*
+// @match        https://infosecwriteups.com/*
 // @run-at       document-start
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none

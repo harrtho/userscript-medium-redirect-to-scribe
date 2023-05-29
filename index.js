@@ -17,6 +17,7 @@
 // @match        https://bootcamp.uxdesign.cc/*
 // @match        https://generativeai.pub/*
 // @match        https://infosecwriteups.com/*
+// @match        https://itnext.io/*
 // @match        https://levelup.gitconnected.com/*
 // @match        https://towardsdatascience.com/*
 // @run-at       document-start

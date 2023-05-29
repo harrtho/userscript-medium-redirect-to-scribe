@@ -14,6 +14,7 @@
 // @match        https://blog.acethecloud.com/*
 // @match        https://blog.bitsrc.io/*
 // @match        https://blog.shiftleft.io/*
+// @match        https://bootcamp.uxdesign.cc/*
 // @match        https://infosecwriteups.com/*
 // @match        https://levelup.gitconnected.com/*
 // @match        https://towardsdatascience.com/*
